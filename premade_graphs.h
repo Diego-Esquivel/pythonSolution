@@ -1,15 +1,6 @@
 /**
  * @file premade_graphs.h
  *
- * This file builds three example graphs with the Graph library.
- * The examples have real weights between cities in miles.
- * Unfortunately, graphviz draws the nodes with a best-fit algorithm,
- *  so relative locations of cities are wrong.
- * These graphs are also used in *_test.cpp.
- * Updated by Sean Massung for Spring 2012
- *
- * @author Sean Massung
- * @date Spring 2011
  */
 
 #ifndef _PREMADE_GRAPHS_

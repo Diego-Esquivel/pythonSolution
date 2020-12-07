@@ -2,21 +2,7 @@
  * @file graph.h
  * Graph Library Declarations
  *
- * Written for CS 225 Spring 2011
- * @author Sean Massung
  *
- * Updated Spring 2012 by Sean Massung
- *  - Added doxygen comments
- *  - Created better error handling
- *  - More encapsulated and object-oriented
- * 
- *  Updated Spring 2018 by Jordi
- *  - Added doxygen comments
- *  - Created better error handling
- *  - More encapsulated and object-oriented
- *
- * Update Spring 18 by Simeng
- * - Finishing adding all required features
  */
 #ifndef _GRAPH_H
 #define _GRAPH_H

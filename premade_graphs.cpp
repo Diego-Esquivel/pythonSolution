@@ -1,11 +1,6 @@
 /**
  * @file premade_graphs.cpp
  *
- * This file contains the implementation of the premade graphs.
- * Updated by Sean Massung for Spring 2012
- *
- * @author Sean Massung
- * @date Spring 2011
  */
 
 #include "premade_graphs.h"

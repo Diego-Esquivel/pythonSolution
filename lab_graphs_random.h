@@ -1,11 +1,5 @@
 /**
  * @file random.h
- * Random library declarations.
- * Originally written for use with the Graph class to generate random
- *  graphs and integers.
- *
- * @author Sean Massung
- * @date Spring 2011
  */
 
 #ifndef _LAB_GRAPHS_RANDOM_H_

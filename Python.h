@@ -6,7 +6,6 @@
  * Unfortunately, graphviz draws the nodes with a best-fit algorithm,
  *  so relative locations of cities are wrong.
  * These graphs are also used in *_test.cpp.
- * Updated by Sean Massung for Spring 2012
  *
  * @author Diego G Esquivel
  * @date Fall 2020
